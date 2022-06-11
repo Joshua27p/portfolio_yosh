@@ -1,0 +1,11 @@
+.HomeContainer {
+  span {
+    font-size: 200px;
+    color: #fff;
+    transition: all .5s ease-in-out;
+
+  }
+  span:hover {
+    color: red;
+  }
+}
